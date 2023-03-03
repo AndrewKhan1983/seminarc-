@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\seminar7.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\seminar7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\seminar7.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\seminar7.AssemblyInfo.cs
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\seminar7.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\bin\Debug\net7.0\seminar7.exe
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\bin\Debug\net7.0\seminar7.deps.json
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\bin\Debug\net7.0\seminar7.runtimeconfig.json
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\bin\Debug\net7.0\seminar7.dll
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\bin\Debug\net7.0\seminar7.pdb
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\seminar7.dll
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\refint\seminar7.dll
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\seminar7.pdb
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\seminar7.genruntimeconfig.cache
+C:\Users\andre\Documents\SeminarC#\seminars\seminar7\obj\Debug\net7.0\ref\seminar7.dll
