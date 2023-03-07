@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\HW7.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\HW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\HW7.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\HW7.AssemblyInfo.cs
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\HW7.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\SeminarC#\homework\HW7\bin\Debug\net7.0\HW7.exe
+C:\Users\andre\Documents\SeminarC#\homework\HW7\bin\Debug\net7.0\HW7.deps.json
+C:\Users\andre\Documents\SeminarC#\homework\HW7\bin\Debug\net7.0\HW7.runtimeconfig.json
+C:\Users\andre\Documents\SeminarC#\homework\HW7\bin\Debug\net7.0\HW7.dll
+C:\Users\andre\Documents\SeminarC#\homework\HW7\bin\Debug\net7.0\HW7.pdb
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\HW7.dll
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\refint\HW7.dll
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\HW7.pdb
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\HW7.genruntimeconfig.cache
+C:\Users\andre\Documents\SeminarC#\homework\HW7\obj\Debug\net7.0\ref\HW7.dll
