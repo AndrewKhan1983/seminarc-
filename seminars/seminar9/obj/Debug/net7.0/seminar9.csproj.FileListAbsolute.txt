@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\bin\Debug\net7.0\seminar9.exe
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\bin\Debug\net7.0\seminar9.deps.json
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\bin\Debug\net7.0\seminar9.runtimeconfig.json
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\bin\Debug\net7.0\seminar9.dll
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\bin\Debug\net7.0\seminar9.pdb
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\seminar9.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\seminar9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\seminar9.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\seminar9.AssemblyInfo.cs
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\seminar9.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\seminar9.dll
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\refint\seminar9.dll
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\seminar9.pdb
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\seminar9.genruntimeconfig.cache
+C:\Users\andre\Documents\SeminarC#\seminars\seminar9\obj\Debug\net7.0\ref\seminar9.dll
